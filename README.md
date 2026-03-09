@@ -16,7 +16,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
 ## Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-leme&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-leme&layout=compact&theme=tokyonight)
 
 ## 📫 Contato
 
